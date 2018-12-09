@@ -1,0 +1,18 @@
+.navbar{
+    position:fixed;
+    z-index: 99;
+    white-space: nowrap;
+    width: 100%;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+.jumbotron {
+    padding-top: 10rem;
+    background-image: url("/images/backgroundimg.png");
+    background-position: inherit;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+}
+
